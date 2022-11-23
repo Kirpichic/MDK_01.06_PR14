@@ -14,4 +14,9 @@
 {4,"_$Transaction$_.Begin",6},
 {4,"_$Data$_.New",7},
 {5,3c01c115-fb01-4cd6-8c3f-3be40b592432,"Справочник.Справочник1",1},
-{4,"_$Transaction$_.Commit",8}
+{4,"_$Transaction$_.Commit",8},
+{4,"_$InfoBase$_.ConfigUpdate",9},
+{4,"_$InfoBase$_.DBConfigUpdateStart",10},
+{4,"_$InfoBase$_.DBConfigUpdate",11},
+{4,"_$PerformError$_",12},
+{3,"BackgroundJob",3}
