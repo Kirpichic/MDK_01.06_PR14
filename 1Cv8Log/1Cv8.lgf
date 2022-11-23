@@ -1,5 +1,5 @@
 ﻿1CV8LOG(ver 2.0)
-12baed51-afb9-4b52-b167-f3e83b7862f4
+90e53fb9-b11c-4414-aa2a-9cab4e53e69c
 
 {1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
 {2,"45-1",1},
@@ -7,4 +7,11 @@
 {4,"_$Session$_.Authentication",1},
 {13,1,1},
 {4,"_$Session$_.Start",2},
-{4,"_$Session$_.Finish",3}
+{4,"_$Session$_.Finish",3},
+{4,"_$InfoBase$_.RestoreStart",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",6},
+{4,"_$Data$_.New",7},
+{5,3c01c115-fb01-4cd6-8c3f-3be40b592432,"Справочник.Справочник1",1},
+{4,"_$Transaction$_.Commit",8}
